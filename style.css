@@ -1,0 +1,14 @@
+body{
+position: relative;
+
+background: linear-gradient(195.78deg, #9419BF -0.37%, #F09526 98.34%);
+}
+
+.head{
+
+position: absolute;
+width: 1600px;
+height: 78px;
+
+background: #252424;
+}
